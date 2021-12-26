@@ -1,1 +1,1 @@
-# otustest
+# Test package for Otus
